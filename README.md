@@ -17,9 +17,9 @@ This repository is my personal record of learning web development from scratch. 
 **HINT:** Click on it to expand chapters inside it.
 
 <details>
-<h3>Total 139 chapters</h3>
-
 <summary>Sigma Web Development Course by <b>'CodeWithHarry'</b></summary>
+
+<h3>Total 139 chapters</h3>
 
 - [Chapter 001 - VS Code Setup](./Sigma%20Web%20Development%20Course/Chapter%20001%20-%20VS%20Code%20Setup/)
 - [Chapter 002 - First Website](./Sigma%20Web%20Development%20Course/Chapter%20002%20-%20First%20Website/)
